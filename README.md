@@ -13,13 +13,13 @@ This project is a simple Minecraft-like test built using the **Ursina** game eng
 
 ## 🚀 Installation & Running
 1. Clone this repository or copy the script.
-2. Install Ursina if not already installed:
+2. Install requirements.txt:
    ```sh
-   pip install ursina
+   pip install -r requirements.txt
    ```
-3. Run the script:
+3. Run the script from the source directory:
    ```sh
-   python game.py
+   python ursina/game.py
    ```
 
 ## 🎮 Controls
@@ -27,6 +27,7 @@ This project is a simple Minecraft-like test built using the **Ursina** game eng
 - **Mouse Movement** → Look around.
 - **Left Click** → Place a block.
 - **Right Click** → Remove a block.
+- **1, 2, 3, 4** → Change inventory to place different blocks.
 
 Enjoy experimenting with Ursina! 🚀
 
