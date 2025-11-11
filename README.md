@@ -19,7 +19,7 @@ This project is a simple Minecraft-like test built using the **Ursina** game eng
    ```
 3. Run the script:
    ```sh
-   python minecraft_test.py
+   python game.py
    ```
 
 ## 🎮 Controls
